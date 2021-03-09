@@ -7,7 +7,7 @@ import {
 
 export default function App() {
   return (
-    <Router>
+    <Router basename="/test-deploy">
       <div>
         <nav>
           <ul>
